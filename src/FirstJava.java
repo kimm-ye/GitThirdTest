@@ -6,7 +6,7 @@ public class FirstJava {
 		
 		System.out.println("집에서 룰루랄라~");
 		
+		System.out.println("회사에서 작업1");
 		System.out.println("집에서 작업2");
 	}
-
 }
