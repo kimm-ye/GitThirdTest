@@ -11,6 +11,6 @@ public class FirstJava {
 		
 		System.out.println("이거되게 신기하다 팀작업할때 편하대");
 		System.out.println("자리 옮기면 무조건 pull부터하기 , "
-				+ "파일수정하면 commit!!");
+				+ "파일수정하면 commit!!~!");
 	}
 }
